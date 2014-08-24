@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WebManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TestConnector.cs" Line="52" Column="119" />
+      <File FileName="Assets/Scripts/TestJoint.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TestPush.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TestController.cs" Line="35" Column="7" />
+      <File FileName="Assets/Scripts/TestLinker.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/B2Dragger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlanetConnector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Planet.cs" Line="52" Column="33" />
+      <File FileName="Assets/Scripts/SystemGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Universe.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Star.cs" Line="32" Column="95" />
+      <File FileName="Assets/Scripts/WebManager.cs" Line="54" Column="31" />
+      <File FileName="Assets/Scripts/Asteroid.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Eye.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnnemyTwo.cs" Line="41" Column="55" />
+      <File FileName="Assets/Scripts/Ennemy.cs" Line="31" Column="38" />
+      <File FileName="Assets/Scripts/Shaker.cs" Line="37" Column="23" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="26" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
